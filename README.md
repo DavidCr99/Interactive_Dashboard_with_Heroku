@@ -1,2 +1,2 @@
-# Interactive_Dashboard_with_Heroku
-Dashboard with multiple Plotly.js visualizations that  pulls from a database, hosted through Heroku
+# Interactive_Dashboards_with_Heroku
+A dashboard with multiple Plotly.js visualizations that pulls from a database, hosted though Heroku. 
